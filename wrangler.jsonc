@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "book-shelf",
+  "name": "bookshelf",
   "main": "api/index.js",
   "compatibility_flags": ["nodejs_compat"],
   "compatibility_date": "2025-04-01",
